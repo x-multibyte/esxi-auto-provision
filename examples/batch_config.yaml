@@ -1,0 +1,13 @@
+instances:
+  - hostname: vm-1
+    username: roy
+    ip: 192.168.71.101
+  - hostname: vm-2
+    username: admin
+    ip: 192.168.71.102
+  - hostname: vm-3
+    username: roy
+    ip: 192.168.71.103
+  - hostname: vm-4
+    username: roy
+    ip: 192.168.71.104
